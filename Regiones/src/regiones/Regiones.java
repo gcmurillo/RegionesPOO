@@ -7,10 +7,6 @@ package regiones;
 
 import java.util.Scanner;
 
-/**
- *
- * @author geancarlo
- */
 public class Regiones {
 
     /**
